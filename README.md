@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img width="300" src="./public/catalog-logo.png#gh-light-mode-only" alt="Magic_Patterns"/>
-  <img width="300" src="./public//catalog-logo.png#gh-dark-mode-only" alt="Magic_Patterns"/>
+  <img width="300" src="./public/catalog-logo.png" alt="Magic_Patterns">
 </h1>
 <p align="center">
   <p align="center">Discover the perfect component from a variety of design systems with our <a href="https://www.catalog.magicpatterns.com/">Catalog</a>. The Catalog is maintained by <a href="https://www.magicpatterns.com/">Magic Patterns</a> and the open-source community.
